@@ -1,0 +1,23 @@
+.nav {
+  background-color: #fff;
+
+  &__content {
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 16px;
+    max-width: 1290px;
+    margin: 0 auto;
+
+    @media (min-width: 768px) {
+      padding: 13px 32px;
+    }
+  
+    @media (min-width: 1024px) {
+      padding: 13px 60px;
+    }
+  }
+
+  &__users {
+    margin-right: 10px;
+  }
+}

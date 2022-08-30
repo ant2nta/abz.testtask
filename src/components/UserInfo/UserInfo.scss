@@ -1,0 +1,37 @@
+.user {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+
+  align-items: center;
+  text-align: center;
+
+  &__photo {
+    border-radius: 50%;
+  }
+
+  &__name,
+  &__info > * {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 288px;
+
+    @media (min-width: 768px) {
+      width: 304px;
+    }
+
+    @media (min-width: 1024px) {
+      width: 242px;
+    }
+
+    @media (min-width: 1290px) {
+      width: 330px;
+    }
+  }
+}
