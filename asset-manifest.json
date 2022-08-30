@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/abz.testtask/static/css/main.876478a8.css",
+    "main.css": "/abz.testtask/static/css/main.a032b310.css",
     "main.js": "/abz.testtask/static/js/main.e0809b03.js",
-    "static/media/header-background-big.png": "/abz.testtask/static/media/header-background-big.5fff95b28b2b73999698.png",
-    "static/media/header-background-small.png": "/abz.testtask/static/media/header-background-small.97a28916b64bbbafb6eb.png",
+    "static/media/header-background-big.webp": "/abz.testtask/static/media/header-background-big.7939de645983699701e7.webp",
+    "static/media/header-background-small.webp": "/abz.testtask/static/media/header-background-small.791905ffc5602db422b2.webp",
     "static/media/success-image.svg": "/abz.testtask/static/media/success-image.0d3202ba11b04fa7364b0f83ce42aea5.svg",
     "static/media/Logo.svg": "/abz.testtask/static/media/Logo.8bb55362d01d55393ccc5476d96f0c14.svg",
     "static/media/photo-cover.svg": "/abz.testtask/static/media/photo-cover.fb98cf13a87225efe558669bdc541ac7.svg",
     "index.html": "/abz.testtask/index.html",
-    "main.876478a8.css.map": "/abz.testtask/static/css/main.876478a8.css.map",
+    "main.a032b310.css.map": "/abz.testtask/static/css/main.a032b310.css.map",
     "main.e0809b03.js.map": "/abz.testtask/static/js/main.e0809b03.js.map"
   },
   "entrypoints": [
-    "static/css/main.876478a8.css",
+    "static/css/main.a032b310.css",
     "static/js/main.e0809b03.js"
   ]
 }
