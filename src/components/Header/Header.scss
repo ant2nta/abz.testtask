@@ -5,7 +5,7 @@
 
     height: 500px;
     max-width: 1170px;
-    background-image: url(../../images/header-background-small.png);
+    background-image: url(../../images/header-background-small.webp);
     background-size: 100% 100%;
     margin: 0 auto;
 
@@ -14,7 +14,7 @@
     }
 
     @media (min-width: 1170px) {
-        background-image: url(../../images/header-background-big.png);
+        background-image: url(../../images/header-background-big.webp);
     }
 
     &__content {
